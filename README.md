@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at Siemens healthineers as full stack app developer<br>👯 I’m currently doing my 2nd masters at FAU Erlangen-Nürnberg, Germany🤝 I’m looking for help with<br>🌱 I’ll be starting my master's thesis soon on deep learning based prediction models<br>💬 Ask me about my favorite moment as a developer<br>😄 Pronouns: He / Him<br>⚡ Fun fact: Coding my way out of infinite loops since 2013
+🔭 I’m currently working at Siemens healthineers as full stack app developer<br>👯 I’m currently doing my 2nd masters at FAU Erlangen-Nürnberg, Germany<br>🌱 I’ll be starting my master's thesis soon on deep learning based prediction models<br>💬 Ask me about my favorite moment as a developer<br>😄 Pronouns: He / Him<br>⚡ Fun fact: Coding my way out of infinite loops since 2013
 
 
 ## 🌐 Socials:
