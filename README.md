@@ -59,7 +59,7 @@
 (*PS: Refresh the page to see a new meme* :wink: )
   <div align="center">
 
-<a href="https://github.com/theanindya"><img src='https://web-production-4cea.up.railway.app/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
+<a href="https://github.com/techytushar/random-meme"><img src='https://web-production-4cea.up.railway.app/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
                      
  ### Can you break these counter?
 
