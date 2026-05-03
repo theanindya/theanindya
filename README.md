@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring AI Engineer <br>🔭 I’m currently working at Siemens healthineers as full stack app developer<br>👯 I’m currently finishing my 2nd masters at FAU Erlangen-Nürnberg, Germany<br>🌱 I am recently completed my master's thesis at Siemens Healthineers in the topic of 'Deep Learning based Classification of Body Regions in Intraoperative X-Ray Images using foundation models' <br>💬 Ask me about my favorite moment as a developer<br>😄 Pronouns: He / Him<br>⚡ Fun fact: Coding my way out of infinite loops since 2013
+💻 Aspiring AI Engineer <br>🔭 I’m currently working at Siemens healthineers as full stack app developer<br>👯 I’m currently finishing my 2nd masters at FAU Erlangen-Nürnberg, Germany<br>🌱 I am recently completed my master's thesis at Siemens Healthineers in the topic of 'Deep Learning based Classification of Body Regions in Intraoperative X-Ray Images using foundation models' <br>💬 Ask me about my favorite moment as a developer<br>😄 Pronouns: He / Him<br>⚡ Fun fact: Coding my way out of infinite loops since 2013
 
 
 ## 🌐 Socials:
